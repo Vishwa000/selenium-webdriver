@@ -3,4 +3,13 @@
   <groupId>Web_Driver</groupId>
   <artifactId>Webdriver</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  <dependencies>
+  <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.10.0</version>
+</dependency>
+  </dependencies>
 </project>
